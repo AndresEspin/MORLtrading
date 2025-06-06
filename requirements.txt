@@ -1,0 +1,12 @@
+numpy<2.0
+pandas
+yfinance
+optuna
+gymnasium
+stable_baselines3[extra]
+torch
+matplotlib
+stockstats
+fredapi
+yesg
+tqdm
